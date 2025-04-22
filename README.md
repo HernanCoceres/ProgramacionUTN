@@ -1,11 +1,14 @@
 💻 Programación 1
 Tecnicatura Universitaria en Programación
+
 📍 Universidad Tecnológica Nacional
 
-✨ Estudiante
+✨ Estudiante:
+
 Nombre: Coceres, Gabriel Hernan
 Comisión: M2025-11, R- General Pacheco
-📂 Descripción del Repositorio
+
+📂 Descripción del Repositorio:
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
 
 📌 Estructura del repositorio:
